@@ -20,6 +20,7 @@ routes = [
   { pattern = "k8s.6788.cn", custom_domain = true },
   { pattern = "ghcr.6788.cn", custom_domain = true },
   { pattern = "cloudsmith.6788.cn", custom_domain = true },
+  { pattern = "github.6788.cn", custom_domain = true },
 ]
 
 [env.production.vars]
